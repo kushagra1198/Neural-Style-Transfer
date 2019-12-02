@@ -16,7 +16,7 @@ This is the style image
 ![style](https://github.com/kushagra1198/Neural-Style-Transfer/blob/master/example/style.jpg)
 
 
-This is the image after style transfer (run for 1000 iterations to produce the result (style bend parameters 0.8 & 0.2)
+This is the image after style transfer (run for 1000 iterations to produce the result (style bend parameters 0.8 & 0.2))
 
 ![final](https://github.com/kushagra1198/Neural-Style-Transfer/blob/master/example/final.jpg)
 
