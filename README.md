@@ -5,6 +5,7 @@ In this project I have implemented Style transferm (Model used - VGG19):
 3. From Scratch (Mathemetical Model)
 
 ## Example (NST folder)
+Note: I could not upload the vgg19 trained weights(due to large size of file), hence I have put the download link for the same.
 This is my image
 
 ![image](https://github.com/kushagra1198/Neural-Style-Transfer/blob/master/NST/input/rsz_111.jpg)
