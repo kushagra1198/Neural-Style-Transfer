@@ -6,6 +6,7 @@ In this project I have implemented Style transferm (Model used - VGG19):
 
 ## Example (NST folder)
 This is my image
+
 ![image](https://github.com/kushagra1198/Neural-Style-Transfer/blob/master/NST/input/rsz_111.jpg)
 
 
