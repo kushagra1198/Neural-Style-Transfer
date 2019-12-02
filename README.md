@@ -1,5 +1,5 @@
 ## Introduction
-In this project I have implemented Style transfer
+In this project I have implemented Style transferm (Model used - VGG19):
 1. Using Pytorch
 2. Using Tensorflow
 3. From Scratch (Mathemetical Model)
