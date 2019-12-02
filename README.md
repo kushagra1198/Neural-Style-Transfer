@@ -6,7 +6,17 @@ In this project I have implemented Style transfer
 
 ## Example (Tensorflow code)
 This is an image I'll use to illustrate style transfer
+
 ![image](https://github.com/kushagra1198/Neural-Style-Transfer/blob/master/example/image.jpg)
 
+
+
 This is the style image
-![style]()
+
+![style](https://github.com/kushagra1198/Neural-Style-Transfer/blob/master/example/style.jpg)
+
+
+This is the image after style transfer
+
+![final](https://github.com/kushagra1198/Neural-Style-Transfer/blob/master/example/final.jpg)
+
